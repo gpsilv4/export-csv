@@ -1,0 +1,9 @@
+# VSCode
+.vscode/
+
+# Python
+venv/
+
+# Project-specific
+extract.pdf
+extracted_extract.csv
