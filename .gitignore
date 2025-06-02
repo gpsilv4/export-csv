@@ -5,5 +5,5 @@
 venv/
 
 # Project-specific
-extract.pdf
-extracted_extract.csv
+*.pdf
+*.csv
